@@ -6,3 +6,10 @@
  - The indices of top 5 vectors with least L2 are returned which is then used to pull images from the dataset
 ___
 ## Results
+ - ![alt text](results/test.png)
+ ___
+ - ![alt text](results/test2.png)
+ ___
+ - ![alt text](results/test3.png)
+ ___
+ - ![alt text](results/test4.png)
